@@ -231,8 +231,8 @@
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#0467BF"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.2126531358566" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.2126531358566" height="8" fill="#0467BF"/>
                     <rect mask="url(#languages-bar)" x="293.2126531358566" y="0" width="84.78967578023502" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="378.00232891609164" y="0" width="81.99767108390834" height="8" fill="#f1e05a"/>
                 </svg>
@@ -241,7 +241,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#0467BF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Pythoni
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
