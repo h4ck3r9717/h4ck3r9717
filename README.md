@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Welcome to Shawn's Cyber Domain ⚡</h1>
+<h1 align="center">⚡ Welcome to h4ck3r9717 Cyber Domain ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0FF00D&center=true&vCenter=true&width=600&lines=🌰+Elite+Coder+%7C+Python+%7C+Django+%7C+Kotlin;💻+Breaking+Code+Since+Day+One;😈+Master+of+Bugs+%7C+Destroyer+of+Debuggers;🛠️+Building+Stuff+That+Even+I+Fear;🚀+Welcome+to+My+Mad+Lab!" />
@@ -47,7 +47,7 @@
 ---
 
 ### **🔥 Want to Connect?**
-- 🕶️ **GitHub**: [ShawnThePsycho](https://github.com/ShawnThePsycho)  
+- 🕶️ **GitHub**: [ShawnThePsycho](https://github.com/h4ck3r9717)  
 - 🦾 **LinkedIn**: Coming Soon...  
 - 🚀 **Portfolio**: Under Construction...  
 
