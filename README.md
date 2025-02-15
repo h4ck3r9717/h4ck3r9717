@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Welcome to h4ck3r9717 Cyber Domain ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0FF00D&center=true&vCenter=true&width=600&lines=🌰+Elite+Coder+%7C+Python+%7C+Django+%7C+Kotlin;💻+Breaking+Code+Since+Day+One;😈+Master+of+Bugs+%7C+Destroyer+of+Debuggers;🛠️+Building+Stuff+That+Even+I+Fear;🚀+Welcome+to+My+Mad+Lab!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0FF00D&center=true&vCenter=true&width=600&lines=🌰+Elite+Coder+%7C+Python+%7C+Angular+%7C+JavaScript;💻+Breaking+Code+Since+Day+One;😈+Master+of+Bugs+%7C+Destroyer+of+Debuggers;🛠️+Building+Stuff+That+Even+I+Fear;🚀+Welcome+to+My+Mad+Lab!" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ```
 
 - 🔥 **Mad developer, crazy problem-solver, and elite coder**  
-- 💀 **Specializes in Python (Django), Kotlin (Android), and breaking things**  
+- 💀 **Specializes in Python, Angular, JavaScript, Bash, Linux, PSQL, Docker, SQL, and AWS**  
 - ⚡ **Tech Alchemist, turning coffee ☕ into mind-blowing projects**  
 - 🧠 **Living in the Matrix, debugging in real-time**  
 
@@ -23,7 +23,7 @@
 
 ### **🛠️ Tech Arsenal**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,kotlin,androidstudio,linux,bash,git,github,postgres,sqlite,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,angular,js,bash,linux,postgres,docker,sql,aws" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 ### **🖥️ Live Terminal Animation**
 ```md
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=24&duration=3000&color=15FF00&center=true&vCenter=true&width=750&height=100&lines=🌰+Initialising+Shawn's+Cyber+Matrix...;🔥+Loading+Elite+Coding+Skills...;😈+Injecting+Badass+Scripts...;💻+Destroying+Bugs+In+Real+Time...;🚀+Deploying+To+The+Future...)](https://github.com/ShawnThePsycho)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=24&duration=3000&color=15FF00&center=true&vCenter=true&width=750&height=100&lines=🌰+Initialising+Shawn's+Cyber+Matrix...;🔥+Loading+Elite+Coding+Skills...;😈+Injecting+Badass+Scripts...;💻+Destroying+Bugs+In+Real+Time...;🚀+Deploying+To+The+Future...;🌋+Executing+Japanese+Code+Magic...)](https://github.com/h4ck3r9717)
 ```
 
 ---
