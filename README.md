@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="https://wallpapercave.com/wp/wp7199912.jpg" width="100%" />
-  <br>
   <font color="green">☠️ Welcome to the Shadows of h4ck3r9717 ☠️</font>
 </h1>
 
@@ -14,14 +12,17 @@
 ```bash
 > echo "Shawn | Digital Phantom | Cyber Menace"
 > echo "Hacker of Logics, Slayer of Bugs, Master of Code."
-> echo "01001000 01100001 01100011 01101011 01100101 01110010"
+> echo "01101000 01100001 01100011 01101011 01100101 01110010"
 > sudo rm -rf /sleep // Sleeping is a vulnerability
+> sudo chmod +x /life // Executing life in hacking mode
 ```
 
 - 🔥 **Mad developer, digital ghost, and elite cyber-warrior**  
 - 💀 **Specializes in Python, Angular, JavaScript, Bash, Linux, PSQL, Docker, SQL, and AWS**  
 - ⚡ **Cyber Alchemist, turning caffeine ☕ into untraceable exploits**  
 - 🧠 **Living in the shadows, debugging in the dark**  
+- 🕶️ **Encrypting the world, one script at a time...**  
+- 👾 **Zero-day hunter | Code sorcerer | Digital anarchist**  
 
 ---
 
@@ -29,6 +30,24 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,angular,js,bash,linux,postgres,docker,sql,aws" />
 </p>
+
+---
+
+### **🔥 Live Terminal Animation**
+```bash
+while true; do
+    echo "👁️ System Breach Detected...";
+    sleep 1;
+    echo "💀 Injecting malicious scripts...";
+    sleep 1;
+    echo "☠️ Firewalls compromised...";
+    sleep 1;
+    echo "🚀 Deploying untraceable exploits...";
+    sleep 1;
+    echo "👾 Tracking digital footprints...";
+    sleep 1;
+done
+```
 
 ---
 
@@ -45,16 +64,17 @@
 
 ### **🖥️ Terminal Surveillance**
 ```md
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=750&height=100&lines=👁️+Tracking+Shawn's+Digital+Footsteps...;🔥+Executing+Cyber+Attacks...;😈+Injecting+Badass+Scripts...;💻+Dismantling+Firewalls...;🚀+Deploying+Stealth+Code...;☠️+Welcome+to+the+Dark+Side...)](https://github.com/h4ck3r9717)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=750&height=100&lines=👁️+Tracking+Shawn's+Digital+Footsteps...;🔥+Executing+Cyber+Attacks...;😈+Injecting+Badass+Scripts...;💻+Dismantling+Bugs+Like+Firewalls...;🚀+Deploying+Stealth+Code...;☠️+Welcome+to+the+Dark+Side...)](https://github.com/h4ck3r9717)
 ```
 
 ---
 
-### **🔥 Want to Connect?**
-- 🕶️ **GitHub**: [shawn](https://github.com/h4ck3r9717)  
-- 🦾 **LinkedIn**: Hidden in the Dark Web...  
-- 🚀 **Portfolio**: Classified...  
+### **🕶️ Dark Web Presence**
+- 💻 **GitHub**: [shawn](https://github.com/h4ck3r9717)  
+- 🦾 **LinkedIn**: Hidden in the Deep Web...  
+- 🚀 **Portfolio**: Restricted Access...  
+- 🔐 **Darknet Projects**: [Redacted]  
 
 ---
 
-☠️ **_"The system is mine to manipulate, the code bends to my will."_** 👁️
+☠️ **_"The system is mine to manipulate, the code bends to my will. I don’t find bugs, I create them..."_** 👁️
